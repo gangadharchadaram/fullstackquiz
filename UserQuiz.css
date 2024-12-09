@@ -1,0 +1,38 @@
+
+
+.user-quiz-container{
+    background-color: #fff;
+    color: #341055;
+    margin-top: 8%;
+    box-sizing: border-box;
+    padding: 30px;
+    box-shadow: 0px 0px 7px #FF3600;
+    width: 90%;
+    height: 75%;
+}
+
+.quiz-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.opps-image{
+    margin-left: 43%;
+    margin-bottom: 30px;
+    height: 150px;
+    width: 150px;
+
+    margin-top: 10%;
+}
+
+.quiz-text{
+    text-align: center;
+}
+
+.takequiz{
+    height: 60px;
+    width: 170px;
+    margin-left: 43%;
+    margin-top: 2%
+}

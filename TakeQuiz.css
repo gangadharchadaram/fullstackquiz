@@ -1,0 +1,10 @@
+
+.take-quiz-container{
+    background-color: #fff;
+    width: 90%;
+    margin-top: 8%;
+    box-sizing: border-box;
+    height: 75%;
+    padding: 30px;
+    box-shadow: 0px 0px 7px #FF3600;
+}

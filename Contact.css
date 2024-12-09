@@ -1,0 +1,26 @@
+
+.contact-container{
+    background-color: #fff;
+    width: 90%;
+    margin-top: 8%;
+    box-sizing: border-box;
+    height: 75%;
+    padding: 30px;
+    box-shadow: 0px 0px 7px #FF3600;
+    overflow:auto;
+}
+
+.contact-form{
+    margin-top: 2%;
+}
+
+.form-item{
+    margin-bottom: 3%;
+    /* box-shadow: 0px 0px 1px #341055; */
+    
+
+.form-control{
+    box-shadow: 0px 2px 2px #FF3600;
+    font-weight: 900;
+}
+}

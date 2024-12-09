@@ -1,0 +1,26 @@
+.Update-question-container{
+    background-color: #fff;
+    color: #341055;
+    margin-top: 8%;
+    box-sizing: border-box;
+    padding: 30px;
+    box-shadow: 0px 0px 7px #FF3600;
+    width: 90%;
+    height: 75%;
+    overflow: auto;
+}
+
+.text-info{
+    color: #FF3600 !important;
+    padding-bottom: 5px;
+    padding-top: 20px;
+}
+
+.btn-group{
+    display: flex;
+    flex-direction: row;
+}
+
+.btn-sm{
+    margin-right: 20px;
+}

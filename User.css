@@ -1,0 +1,27 @@
+.take-quiz-container{
+    background-color: #fff;
+    color: #341055;
+    margin-top: 8%;
+    box-sizing: border-box;
+    /* padding: 30px; */
+    box-shadow: 0px 0px 7px #FF3600;
+    width: 90%;
+    height: 75%;
+}
+
+.text-format{
+    color: #000;
+}
+
+  
+  .quizCard {
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    box-shadow: none !important;
+    color: #341055;
+  }
+  
+
